@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <Servo.h>
+#include <ESP32Servo.h>
 #include "M5StickCPlus.h"
 
 Servo myservo;  // create servo object to control a servo
